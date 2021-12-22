@@ -10,7 +10,7 @@ import javax.persistence.*;
 public class RequestAppointment {
     @Id
     @Column(name = "id")
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
 
     @Column(name = "doctor_position")

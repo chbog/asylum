@@ -1,7 +1,6 @@
 package com.brawlstars.asylum.controller;
 
 import com.brawlstars.asylum.dto.AppointmentDto;
-import com.brawlstars.asylum.dto.AppointmentRequestDto;
 import com.brawlstars.asylum.dto.DiagnoseDto;
 import com.brawlstars.asylum.dto.TreatmentDto;
 import com.brawlstars.asylum.model.Appointment;
